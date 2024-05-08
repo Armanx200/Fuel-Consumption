@@ -32,3 +32,5 @@ The linear regression model achieves an R-squared score of 0.98 on the test data
 ## Contributing 🤝
 
 Contributions are welcome! Fork the repository and submit a pull request.
+
+Arman Kianian
