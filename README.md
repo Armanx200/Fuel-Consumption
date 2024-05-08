@@ -2,6 +2,10 @@
 
 This repository contains code to predict fuel consumption using linear regression based on vehicle features.
 
+### Regression Plot 📈
+
+![Regression Plot](/plot.png)
+
 ## Overview 📊
 
 The goal of this project is to build a linear regression model that predicts fuel consumption based on various vehicle features. The dataset used is 'FuelConsumption.csv', which contains information about fuel consumption and vehicle attributes.
@@ -23,11 +27,6 @@ The goal of this project is to build a linear regression model that predicts fue
 ## Results 💯
 
 The linear regression model achieves an R-squared score of 0.98 on the test data, indicating a good fit.
-
-### Regression Plot 📈
-
-<!-- Include a screenshot or a link to your regression plot here -->
-![Regression Plot](/plot.png)
 
 ## Contributing 🤝
 
